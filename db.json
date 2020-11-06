@@ -1,0 +1,14 @@
+{
+  "jobs": [
+      {
+        "id": 1,
+        "name": "OkCredit", //name of the company
+        "title": "UX Designer", //job title
+        "startYear": 1, //starting range of experience
+        "endYear": 3, //end range of experience
+        "city": "Hyderabad", //job location
+        "logo": "url", //logo of the commpany
+        "scale": "Small Scale / Startup" //enterprise scale of the company
+      }
+    ]
+}
